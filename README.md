@@ -569,7 +569,7 @@ Desenvolver domínio prático sobre controle de versão utilizando Git e GitHub,
 - [x] Commits e histórico de versões.
 - [x] Branches e Merge.
 - [x] Integração com GitHub.
-- [ ] Pull Requests na prática.
+- [x] Pull Requests na prática.
 - [ ] Resolução de conflitos.
 - [ ] Rebase.
 - [ ] GitHub Actions e CI/CD.
